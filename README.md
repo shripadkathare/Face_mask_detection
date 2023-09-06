@@ -1,6 +1,6 @@
 # Face Mask Detection using Machine Learning
 
-![Face Mask Detection](images/face_mask_detection.jpg)
+![Face Mask Detection](images/face_mask_detection.jpg](https://smartclick.ai/wp-content/uploads/2022/04/Mask-Detection-1.png)
 
 This project is aimed at detecting whether a person is wearing a face mask or not using machine learning techniques. It has applications in various domains, including public health, security, and compliance with safety guidelines.
 
